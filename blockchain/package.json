@@ -1,0 +1,21 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "backend javascript for finalwork",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TDW",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.2",
+    "keythereum": "^1.2.0",
+    "minimist": "^1.2.5",
+    "truffle": "^5.4.31",
+    "web3": "^1.7.0",
+    "web3.storage": "^3.5.3"
+  }
+}

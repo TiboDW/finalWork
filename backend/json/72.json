@@ -1,0 +1,206 @@
+{
+    "isQueriesFinished": "false",
+    "sources": [
+        {
+            "link": "https://www.winyradio.com/test-2/",
+            "count": 9,
+            "percent": 55
+        },
+        {
+            "link": "https://noriba.io/en/noriba-fund-bu/",
+            "count": 2,
+            "percent": 12
+        },
+        {
+            "link": "https://ghada.design/portfolio/dark-loft/",
+            "count": 1,
+            "percent": 6
+        },
+        {
+            "link": "https://demo.tokopress.id/adora/faq/",
+            "count": 1,
+            "percent": 6
+        },
+        {
+            "link": "https://beneluxtheme.com/portfolio/case-study/",
+            "count": 1,
+            "percent": 5
+        },
+        {
+            "link": "https://templatekit.tokopress.com/eventkit/about-us/",
+            "count": 1,
+            "percent": 4
+        }
+    ],
+    "totalQueries": 17,
+    "plagPercent": 88,
+    "paraphrasePercent": 0,
+    "uniquePercent": 12,
+    "excludeURL": null,
+    "details": [
+        {
+            "query": "Test 2 123 Up maids me an ample stood given.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Certainty say suffering his him collected intention promotion.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://noriba.io/en/noriba-fund-bu/",
+                "des": "Certainty say suffering his him collected intention promotion. Hill sold ham men made lose case. Views abode law heard jokes too. Was are delightful solicitude discovered collecting man day. Pricing . Free $ 0 / Yearly. Lorem ipsum dolor Consectetur adipiscing elit Sit amet, consectetur adipiscing Consequat lacus condimentum Etiam aliquet ex elit Try it! Premium $ 15 / Yearly. Lorem ipsum ..."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Hill sold ham men made lose case.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://beneluxtheme.com/portfolio/case-study/",
+                "des": "Hill sold ham men made lose case. Views abode law heard jokes too. Friendly. Rank tall boy man them over post now. Off into she bed long fat room. Colorful. An newspaper assurance discourse ye certainly. Soon gone game and why. Brilliant."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Views abode law heard jokes too.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://templatekit.tokopress.com/eventkit/about-us/",
+                "des": "Views abode law heard jokes too. Was are delightful solicitude discovered collecting man day. Resolving neglected sir tolerably but existence conveying for. Rank tall boy man them over post now. Off into she bed long fat room."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Was are delightful solicitude discovered collecting man day.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://noriba.io/en/noriba-fund-bu/",
+                "des": "Was are delightful solicitude discovered collecting man day. Pricing . Free $ 0 / Yearly. Lorem ipsum dolor Consectetur adipiscing elit Sit amet, consectetur adipiscing Consequat lacus condimentum Etiam aliquet ex elit Try it! Premium $ 15 / Yearly. Lorem ipsum dolor ..."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Resolving neglected sir tolerably but existence conveying for.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://ghada.design/portfolio/dark-loft/",
+                "des": "Resolving neglected sir tolerably but existence conveying for. Day his put off unaffected. Role. Art Director. Service. Interior Design. Client. Envato. Timings ~45 days. Vintage Residence. keyboard_arrow_left. European Style."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Day his put off unaffected literature partiality inhabiting.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": "Cause dried no solid no an small so still widen.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "history contact us test 2 improve him believe opinion offered met and end cheered forbade cause dried no solid no an small so still widen. ten weather evident smiling bed against she examine its. rendered"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Ten weather evident smiling bed against she examine its.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "Ten weather evident smiling bed against she examine its. Rendered far opinions two yet moderate sex striking. Sufficient motionless compliment by stimulated assistance at. Convinced resolving extensive agreeable in it on as remainder. Cordially say affection met who propriety him."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Rendered far opinions two yet moderate sex striking.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://demo.tokopress.id/adora/faq/",
+                "des": "Rendered far opinions two yet moderate sex striking. Sufficient motionless compliment by stimulated assistance at. Convinced resolving extensive agreeable in it on as remainder. Cordially say affection met who propriety him. Are man she towards private weather pleased."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Sufficient motionless \ncompliment by stimulated assistance at.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "evident smiling bed against she examine its. rendered far opinions two yet moderate sex striking. sufficient motionless compliment by stimulated assistance at. convinced resolving extensive agreeable in it on as remainder. cordially"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Convinced resolving \nextensive agreeable in it on as remainder.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "rendered far opinions two yet moderate sex striking. sufficient motionless compliment by stimulated assistance at. convinced resolving extensive agreeable in it on as remainder. cordially say affection met who propriety him. are man she"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Cordially say \naffection met who propriety him.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "motionless compliment by stimulated assistance at. convinced resolving extensive agreeable in it on as remainder. cordially say affection met who propriety him. are man she towards private weather pleased. in more part"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Are man she towards \nprivate weather pleased.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "resolving extensive agreeable in it on as remainder. cordially say affection met who propriety him. are man she towards private weather pleased. in more part he lose need so want rank no."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " In more part he lose need so want \nrank no.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "remainder. cordially say affection met who propriety him. are man she towards private weather pleased. in more part he lose need so want rank no. at bringing or he sensible pleasure. prevent he parlors do"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " At bringing or he sensible pleasure.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "she towards private weather pleased. in more part he lose need so want rank no. at bringing or he sensible pleasure. prevent he parlors do waiting be females an message society."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Prevent he \nparlors do waiting be females an message society.",
+            "version": 3,
+            "display": {
+                "url": "https://www.winyradio.com/test-2/",
+                "des": "more part he lose need so want rank no. at bringing or he sensible pleasure. prevent he parlors do waiting be females an message society. do greatest at in learning steepest. breakfast extremity suffering one"
+            },
+            "paraphrase": "false"
+        }
+    ]
+}

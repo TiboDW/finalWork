@@ -1,0 +1,481 @@
+{
+    "isQueriesFinished": "false",
+    "sources": [
+        {
+            "link": "https://www.brainson.com.br/2018/08/09/hello-world/",
+            "count": 5,
+            "percent": 8
+        },
+        {
+            "link": "https://lincolnairport.com/historical-timeline/",
+            "count": 4,
+            "percent": 7
+        },
+        {
+            "link": "https://sochorganization.blogspot.com/",
+            "count": 3,
+            "percent": 4
+        },
+        {
+            "link": "https://steven-hihi.blogspot.com/",
+            "count": 4,
+            "percent": 3
+        },
+        {
+            "link": "https://gestproject.eu/about-project/consortium/",
+            "count": 1,
+            "percent": 1
+        }
+    ],
+    "totalQueries": 57,
+    "plagPercent": 26,
+    "paraphrasePercent": 11,
+    "uniquePercent": 74,
+    "excludeURL": null,
+    "details": [
+        {
+            "query": "Ik ben Tibo De Winter en dit is een try pdf voor mijn final work.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "version": 3,
+            "display": {
+                "url": "https://lincolnairport.com/historical-timeline/",
+                "des": "deterrence to commercial flight lincoln nebraska has played in helping humans dream among the clouds. lorem ipsum dolor sit amet consectetur adipiscing elit. aenean enim ipsum lobortis vel sagittis in finibus commodo tortor."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "In eget tincidunt risus, quis pharetra tortor.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Fusce eget ex eget tellus porta condimentum accumsan id augue.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Integer pulvinar sollicitudin lacinia.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Pellentesque commodo cursus lacus.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "In quis urna efficitur, hendrerit erat sit amet, venenatis turpis.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Etiam dolor elit, finibus nec justo eget, varius placerat erat.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Quisque sed velit quis turpis vestibulum ultricies.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Donec pretium, orci sit amet ultrices laoreet, ipsum odio commodo nulla, et consequat felis tortor vestibulum elit.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Cras malesuada lorem risus, viverra consequat eros pharetra sit amet.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://lincolnairport.com/historical-timeline/",
+                "des": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam tempor mi sem, ac dictum lectus dignissim vitae. Early Flight in Lincoln Experimentation in flying came from all directions in Nebraska during the 1890s and early 1900s"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": "Nunc pretium posuere venenatis.",
+            "version": 3,
+            "display": {
+                "url": "https://lincolnairport.com/historical-timeline/",
+                "des": " fusce pretium  venenatis sodales."
+            },
+            "paraphrase": "true"
+        },
+        {
+            "query": "Sed tincidunt nunc in velit semper mollis.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Donec tempor aliquam ipsum, nec euismod tellus bibendum vel.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Morbi tincidunt quam ac lorem porttitor, nec rutrum ligula tempor.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Nam enim nisl, ultricies ac aliquam et, lobortis et mauris.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Nulla sollicitudin metus ut est molestie commodo.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Quisque tristique convallis eros id viverra.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Morbi ut felis tortor.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://www.brainson.com.br/2018/08/09/hello-world/",
+                "des": "09-08-2018 · Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur maximus at turpis eu vulputate. Ut posuere mi feugiat massa mattis, at mattis tellus volutpat. Mauris tristique accumsan lorem sit amet facilisis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer accumsan, purus id egestas dictum, mauris risus tempus lacus, et pharetra erat ipsum …"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Aenean ac neque eu massa interdum facilisis.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Nulla porta varius lorem quis dictum.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Nullam sit amet erat eu metus scelerisque scelerisque vel nec dui.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": "Ut nec iaculis augue.",
+            "version": 3,
+            "display": {
+                "url": "https://steven-hihi.blogspot.com/",
+                "des": " ut  eu iaculis  ligula."
+            },
+            "paraphrase": "true"
+        },
+        {
+            "query": "Donec bibendum tellus massa, et molestie nunc rhoncus vitae.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Curabitur et consequat eros, et consequat erat.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+            "version": 3,
+            "display": {
+                "url": "https://www.brainson.com.br/2018/08/09/hello-world/",
+                "des": "erat accumsan metus at sodales nunc nibh quis tellus. phasellus pellentesque enim id ultrices egestas. class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos. suspendisse tempus diam vitae ornare laoreet. pellentesque ac volutpat justo."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Praesent non sapien lectus.",
+            "version": 3,
+            "display": {
+                "url": "https://www.brainson.com.br/2018/08/09/hello-world/",
+                "des": " praesent  nec sapien  ipsum."
+            },
+            "paraphrase": "true"
+        },
+        {
+            "query": "Sed nec ornare urna.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://gestproject.eu/about-project/consortium/",
+                "des": "Sed nec ornare urna, eget malesuada ante. Praesent euismod pharetra neque vitae tristique. Maecenas ut tortor quis tortor elementum molestie ac eget tortor. Vestibulum id hendrerit ex. Integer sit amet convallis orci. Integer rhoncus vel eros ut sagittis."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "In consequat varius rutrum.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Proin nec urna velit.",
+            "version": 3,
+            "display": {
+                "url": "https://steven-hihi.blogspot.com/",
+                "des": "dapibus. pellentesque eu sapien eros. aliquam non orci in augue porttitor tincidunt ut et odio. proin nec urna velit. nam volutpat tempus nisl et facilisis. morbi elementum eros eget"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Vivamus non odio nulla.",
+            "version": 3,
+            "display": {
+                "url": "https://sochorganization.blogspot.com/",
+                "des": "dignissim eget ut velit. sed eget est at sem elementum fringilla sit amet eget sapien. vivamus non odio nulla. praesent viverra ante quis pulvinar gravida. sed cursus hendrerit turpis"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Ut finibus risus a magna egestas, eu posuere felis laoreet.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Nunc ipsum urna, facilisis et ante id, convallis posuere tellus.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Duis a ipsum facilisis, scelerisque tortor sit amet, interdum orci.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Nam et tristique tortor.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Suspendisse molestie, lectus vel pretium pulvinar, magna orci sollicitudin tortor, ut suscipit risus eros in quam.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Curabitur neque felis, sagittis vitae egestas dapibus, ornare a nibh.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": "Fusce sollicitudin malesuada risus, sit amet pretium lectus ornare vel.",
+            "version": 3,
+            "display": {
+                "url": "https://sochorganization.blogspot.com/",
+                "des": " proin malesuada  massa sit  amet  sapien luctus interdum."
+            },
+            "paraphrase": "true"
+        },
+        {
+            "query": "Sed tempor risus in ultrices imperdiet.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": " Etiam dolor libero, auctor ut diam sed, maximus auctor dui.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Vivamus maximus vitae ante ut aliquam.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Fusce eget mi vulputate, semper neque non, facilisis nunc.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+            "version": 3,
+            "display": {
+                "url": "https://www.brainson.com.br/2018/08/09/hello-world/",
+                "des": "mi feugiat massa mattis at mattis tellus volutpat. mauris tristique accumsan lorem sit amet facilisis. interdum et malesuada fames ac ante ipsum primis in faucibus. integer accumsan purus id egestas dictum mauris risus tempus lacus"
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Donec rutrum pharetra quam id interdum.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Sed ornare dui eu ex ornare, ut mattis lacus varius.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Sed laoreet risus id risus tristique hendrerit.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Mauris a nisi eget mi venenatis malesuada sed eget purus.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Phasellus aliquam gravida consequat.",
+            "version": 3,
+            "display": {
+                "url": "https://steven-hihi.blogspot.com/",
+                "des": " phasellus  vel nibh elit sit amet gravida  risus."
+            },
+            "paraphrase": "true"
+        },
+        {
+            "query": "Proin fringilla elit id libero dapibus vehicula.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Mauris non nibh sodales, convallis dolor vitae, porta neque.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Proin sodales libero vel ligula venenatis, iaculis faucibus arcu pulvinar.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": " Ut tincidunt enim finibus enim tempus, vitae vehicula nunc malesuada.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "unique": "false",
+            "query": " Praesent ac condimentum leo.",
+            "version": 3,
+            "display": {
+                "url": "https://www.brainson.com.br/2018/08/09/hello-world/",
+                "des": " praesent  nec sapien ipsum."
+            },
+            "paraphrase": "true"
+        },
+        {
+            "unique": "false",
+            "query": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "version": 3,
+            "display": {
+                "url": "https://lincolnairport.com/historical-timeline/",
+                "des": "deterrence to commercial flight lincoln nebraska has played in helping humans dream among the clouds. lorem ipsum dolor sit amet consectetur adipiscing elit. aenean enim ipsum lobortis vel sagittis in finibus commodo tortor."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "Cras at lorem luctus, semper dui non, dignissim quam.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Donec venenatis erat in felis molestie finibus.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        }
+    ]
+}

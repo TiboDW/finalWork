@@ -1,0 +1,41 @@
+{
+    "isQueriesFinished": "false",
+    "sources": [
+        {
+            "link": "https://www.spanishdict.com/answers/282262/how-to-type-spanish-letters-and-accents-from-paralee",
+            "count": 1,
+            "percent": 50
+        }
+    ],
+    "totalQueries": 3,
+    "plagPercent": 33,
+    "paraphrasePercent": 0,
+    "uniquePercent": 67,
+    "excludeURL": null,
+    "details": [
+        {
+            "query": "Sdfjsdgkqsmdgjkjqsdg\nSdgkqsdgjlqsdgùkmq g\nSqdgkqskdgjrjitrutzerituzerpoitui’!",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "(ué)”’(é”’(é”’\n(é”’(é\n“’(\nÉ”’`(é”’(é u,(à çut^pçiet,;erpu’à,tjç!aty’éu”!",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://www.spanishdict.com/answers/282262/how-to-type-spanish-letters-and-accents-from-paralee",
+                "des": "May 03, 2019 · How to Type Spanish Letters and Accents (á, é, í, ó, ú, ü, ñ, ¿, ¡) 67.5K There are several ways to configure your keyboard to type in the Spanish accented letters and upside-down punctuation (á, é, í, ó, ú, ü, ñ, ¿, ¡) and which one you use depends on the frequency with which you need these letters."
+            },
+            "paraphrase": "false"
+        },
+        {
+            "query": "t j’\n(É\n“’(É”’(é”oi’u()çà”(‘",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        }
+    ]
+}
