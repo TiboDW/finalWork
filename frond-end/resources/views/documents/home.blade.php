@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <h3>Your documents: </h3>
+            <h3>All documents: </h3>
             @foreach($documents as $document)
             <!-- CUSTOM BLOCKQUOTE -->
             <blockquote class="blockquote blockquote-custom bg-white p-5 shadow rounded">

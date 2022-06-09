@@ -5,7 +5,7 @@ import mysql.connector
 
 def plagcheck(text, filename):
     data =  {
-    'key': '62b7838429dc6ad92a1fd2abca57e0f4',
+    'key': '6b63acbc84dc8058dbc1915af3fbdd57',
     'data': text,
     }
     r = requests.post('https://www.prepostseo.com/apis/checkPlag', data=data)

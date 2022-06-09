@@ -19,7 +19,9 @@ use App\Http\Controllers\DocumentController;
 |
 */
 
-Route::get('/', [PaperController::class, 'index'])->name('index');
+//Route::get('/', [PaperController::class, 'index'])->name('index');
+
+Route::get('/', [DocumentController::class, 'home'])->name('index');
 
 
 Auth::routes();
@@ -41,7 +43,6 @@ Route::get('/contacts', [ContactController::class, 'contact'])->name('contact');
 Route::put('/contacts/send', [ContactController::class, 'send'])->name('contactSend');
 
 Route::resource('documents', DocumentController::class);
-
 
 Route::resource('papers', PaperController::class);
 

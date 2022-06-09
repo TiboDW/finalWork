@@ -1,0 +1,19 @@
+{
+    "isQueriesFinished": "false",
+    "sources": [],
+    "totalQueries": 1,
+    "plagPercent": 0,
+    "paraphrasePercent": 0,
+    "uniquePercent": 100,
+    "excludeURL": null,
+    "details": [
+        {
+            "query": "dit is kejfmaz eiofa z\nEfmsefjazeﬁj een tekst Nieuwe Er is niks speciaals iodkfâejf ej f\nJajajajajaj",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "excludeByUrl": false,
+            "paraphrase": "false"
+        }
+    ]
+}

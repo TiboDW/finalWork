@@ -75,4 +75,11 @@ class DocumentController extends Controller
         return view('documents.show', compact('document'));
     }
 
+    public function home(){
+
+        $documents = Document::orderBy('created_at', 'desc')->get();
+
+        return view('documents.home', compact('documents'));  
+    }
+
 }

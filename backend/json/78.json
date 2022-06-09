@@ -1,0 +1,75 @@
+{
+    "isQueriesFinished": "false",
+    "sources": [
+        {
+            "link": "https://prium.github.io/slick/v2.0.0/components/spacing.html",
+            "count": 1,
+            "percent": 35
+        },
+        {
+            "link": "https://bootstrap-vue.org/docs/reference/spacing-classes/",
+            "count": 1,
+            "percent": 30
+        },
+        {
+            "link": "https://mdbootstrap.com/docs/angular/utilities/spacing/",
+            "count": 1,
+            "percent": 16
+        }
+    ],
+    "totalQueries": 5,
+    "plagPercent": 60,
+    "paraphrasePercent": 0,
+    "uniquePercent": 40,
+    "excludeURL": null,
+    "details": [
+        {
+            "query": "test 2 qsdkfqsdmfsqdmfkqlsdfklqdf.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Mqkdsfsdqmfjeiojfqs jfjesmfjeif I ejqijsf isef jqseiojf qejsf se f.",
+            "version": 3,
+            "unique": "true",
+            "display": null,
+            "excludeByUrl": false,
+            "paraphrase": "false"
+        },
+        {
+            "query": "Spacing utilities that apply to all breakpoints, from xs to xl, have no breakpoint abbreviation in them.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://bootstrap-vue.org/docs/reference/spacing-classes/",
+                "des": "Spacing utilities that apply to all breakpoints, from xs to xl, have no breakpoint abbreviation in them. This is because those classes are applied from min-width: 0 and up, and thus are not bound by a media query. The remaining breakpoints, however, do include a breakpoint abbreviation. ..."
+            },
+            "excludeByUrl": false,
+            "paraphrase": "false"
+        },
+        {
+            "query": "This is because those classes are applied from min-width: 0 and up, and thus are not bound by a media query.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://prium.github.io/slick/v2.0.0/components/spacing.html",
+                "des": "This is because those classes are applied from min-width: 0 and up, and thus are not bound by a media query. The remaining breakpoints, however, do include a breakpoint abbreviation. The classes are named using the format {property} {sides}- {size} for xs and {property} {sides}- {breakpoint}- {size} for sm, md, lg, xl and xxl."
+            },
+            "excludeByUrl": false,
+            "paraphrase": "false"
+        },
+        {
+            "query": "The remaining breakpoints, however, do include a breakpoint abbreviation.",
+            "version": 3,
+            "unique": "false",
+            "display": {
+                "url": "https://mdbootstrap.com/docs/angular/utilities/spacing/",
+                "des": "The remaining breakpoints, however, do include a breakpoint abbreviation. The classes are named using the format {property}{sides}-{size} for xs and {property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl. Where property is one of: m - for classes that set margin; p - for classes that set padding"
+            },
+            "excludeByUrl": false,
+            "paraphrase": "false"
+        }
+    ]
+}
